@@ -1,0 +1,33 @@
+
+
+.product
+{
+    border: 1px solid black;
+    max-width: 300px;
+    margin-top: 10px;
+}
+
+.productName
+{
+    font-weight: bold;
+}
+
+.productImage
+{
+    max-width: 100px;
+    float: right;
+}
+
+.productDesc
+{
+    padding-top: 100px;
+
+
+}
+
+.productAdd 
+{ 
+    margin: 20px;
+    margin-left: 140px;
+}
+
